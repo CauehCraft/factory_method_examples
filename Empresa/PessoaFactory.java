@@ -1,4 +1,4 @@
 public abstract class PessoaFactory {
-    public abstract Pessoa getPessoa(String tipo);
+    public abstract Pessoa criarPessoa(String tipo);
 }
 
