@@ -1,2 +1,2 @@
 # factory_method_examples
-Some factory patterns examples.
+Some factory methods examples.
